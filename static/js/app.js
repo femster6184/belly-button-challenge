@@ -180,5 +180,6 @@ function optionChanged(sample) {
     buildMetadata(sample);
     buildBarChart(sample);
     buildBubbleChart(sample);
+    buildGaugeChart(sample);
     
 };

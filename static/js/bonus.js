@@ -80,7 +80,7 @@ function buildGaugeChart(BellyButton) {
         Plotly.newPlot("gauge", [wfreq], layout)
     });
 };
-function optionChanged(sample) { 
+/*function optionChanged(sample) { 
 
     // Log the new value
     console.log(sample); 
@@ -89,3 +89,4 @@ function optionChanged(sample) {
     
     buildGaugeChart(sample);
 };
+*/
